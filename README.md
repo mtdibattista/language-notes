@@ -6,4 +6,4 @@ KichwaGrammar (2022.11.13) v0.9
 All sections complete except the final chapter that presents an atlas of sentence patterns for common statements.
 
 A companion set of programs that analyze sentences that follow spelling, word and grammar conventions of Unified Kichwa
-  are mostly written, will be added soon/.
+  are mostly written, will be added soon.
